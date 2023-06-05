@@ -1,6 +1,6 @@
 ## 📚 GUIA DE CURSOS PARA DESENVOLVEDORES, HACKERS & ARTISTAS DIGITAL
 
-Este guia/links/tutoriais foi feito para ajudar você a estudar e trabalhar de uma forma melhor! Se você tiver links novos, entre em contato comigo nos links abaixo, para que possamos adicionar e assim ajudar novas pessoas.
+Este guia/links/tutoriais foi feito para ajudar você a estudar e trabalhar de uma forma melhor! 
 <br />
 <br />
 
